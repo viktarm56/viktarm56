@@ -1,4 +1,4 @@
-Hello!
+### Hello!
 
 I am an aspiring Data Analyst and a student at Belarusian State University majoring in "Economic Informatics," where I study the application of data to improve business performance.
 
@@ -10,7 +10,7 @@ I am actively immersing myself in the field of data analytics: I follow speciali
 
 My current goal is to delve deeper into the field of data analytics and apply my skills in practice.
 
-For contact: email: victormelnic9@gmail.com Telegram: `@viktarmelnik`
+For contact: email: victormelnic9@gmail.com, Telegram: `@viktarmelnik`
 
 ---
 
@@ -24,7 +24,7 @@ For contact: email: victormelnic9@gmail.com Telegram: `@viktarmelnik`
 
 ---
 
-###
+### На русском
 
 Я начинающий аналитик данных, студент Белорусского Государственного Университета по профильной специальности «Экономическая информатика», где изучаю применение данных для улучшения бизнес-показателей.
 
@@ -36,7 +36,7 @@ For contact: email: victormelnic9@gmail.com Telegram: `@viktarmelnik`
 
 Сейчас моя цель — углубиться в направление аналитики данных и применить свои навыки на практике.
 
-Для связи: Telegram: `@viktarmelnik`
+Для связи: email: victormelnic9@gmail.com, Telegram: `@viktarmelnik`
 
 ---
 ### **Hard Skills**

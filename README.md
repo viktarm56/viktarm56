@@ -1,6 +1,3 @@
----
-###
-
 Hello!
 
 I am an aspiring Data Analyst and a student at Belarusian State University majoring in "Economic Informatics," where I study the application of data to improve business performance.
